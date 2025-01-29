@@ -5,4 +5,4 @@ channels:
 dependencies:
   - xeus-r
   - r-coursekata
-  - catppuccin-jupyterlab
+  - jupyterlab_miami_nights
