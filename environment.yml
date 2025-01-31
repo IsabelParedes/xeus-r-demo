@@ -5,4 +5,5 @@ channels:
 dependencies:
   - xeus-r >= 0.3.2
   - r-dplyr
+  - r-stringi
   - r-tidyr
